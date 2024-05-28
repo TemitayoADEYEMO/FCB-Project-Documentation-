@@ -10,7 +10,7 @@ This data analysis is to look at the amount of businesses and their types in Nor
 - Ms Word [download here](https://apps.microsoft.com/?hl=en-us&gl=NG)
 
 
-![](images.jpg)
+![](images.jpg) ![](Market.jpg)
 
 
 |Name|Gender|Age group|Business|
