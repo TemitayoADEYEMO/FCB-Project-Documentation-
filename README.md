@@ -1,7 +1,7 @@
 # FCB-Project-Documentation-
 ---
 ## Project Outline
-This data analysis is to look at the amount of food consumed by the residents of Area 51. It hopes to shed more light on the food consumption and provide solutions for an effective environment of farming. 
+This data analysis is to look at the amount of businesses and their types in Northen state of nIGERIA. It hopes to brinbg a consensus to the amount of businesses around the area.
 
 ## Tools Used
 
@@ -10,12 +10,12 @@ This data analysis is to look at the amount of food consumed by the residents of
 - Ms Word [download here](https://apps.microsoft.com/?hl=en-us&gl=NG)
 
 
-![](download.jpg)
+![](images.jpg)
 
-```
-Google Query Sheet
-```
 
-|Name|Gender|Age group|Food consumed|
+|Name|Gender|Age group|Business|
 |-------|------|-------|-----------|
-|Angeli|female|20-25|Greens|
+|Ahmed|Male|20-25|Shoe production|
+|Shaibu|Male|20-25|Fabric yarn|
+|Solana|Female|30-45|Supermarket|
+|Favour|Female|20-30|Wool|
