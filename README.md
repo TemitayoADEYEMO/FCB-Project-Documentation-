@@ -1,4 +1,4 @@
-# FCB-Project-Documentation-
+# FCB-Practical-for-github
 ---
 ## Project Outline
 This data analysis is to look at the amount of businesses and their types in Northen state of nIGERIA. It hopes to brinbg a consensus to the amount of businesses around the area.
